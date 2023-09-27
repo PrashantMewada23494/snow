@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update table="sys_script_fix">
     <sys_script_fix action="INSERT_OR_UPDATE">
         <before>false</before>
-        <description/>
-        <name>SprintWork</name>
+        <description>Github test</description>
+        <name>Fix_Records</name>
         <record_for_rollback>true</record_for_rollback>
         <script><![CDATA[//bug fix changes
 //some code change... This is completed too.
@@ -12,18 +12,14 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2023-09-20 09:22:05</sys_created_on>
         <sys_id>97418f8747d5311048b6deae536d438f</sys_id>
-
-        <sys_mod_count>7</sys_mod_count>
+        <sys_mod_count>8</sys_mod_count>
         <sys_name>Fix_Records</sys_name>
-
         <sys_package display_value="gitsnow" source="x_993990_gitsnow">deff7bf297a3e910b4033563e453af6f</sys_package>
         <sys_policy/>
         <sys_scope display_value="gitsnow">deff7bf297a3e910b4033563e453af6f</sys_scope>
         <sys_update_name>sys_script_fix_97418f8747d5311048b6deae536d438f</sys_update_name>
-
-        <sys_updated_by>abel.tuter</sys_updated_by>
-        <sys_updated_on>2023-09-26 10:01:08</sys_updated_on>
-
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-09-27 08:07:23</sys_updated_on>
         <unloadable>false</unloadable>
     </sys_script_fix>
 </record_update>
