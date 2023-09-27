@@ -5,37 +5,31 @@
         <api_name>x_993990_gitsnow.prashant</api_name>
         <caller_access/>
         <client_callable>false</client_callable>
-        <description>Test by Sourabh</description>
-        <name>prashant</name>
-        <script><![CDATA[var prashant = Class.create();
-prashant.prototype = {
+        <description>GitHUbTest</description>
+        <name>ITSMUtils</name>
+        <script><![CDATA[var ITSMUtils = Class.create();
+ITSMUtils.prototype = {
     initialize: function() {
     },
-
 
 	// Existing code here.. 
 	
 	// Admin added sprint 1 feature.
 	
 
-
-	//Bug Fix by Akshay 22nd Sep
-	//Changes made by chirag
-	//Change by Sourabh
-
-    type: 'prashant'
+    type: 'ITSMUtils'
 };]]></script>
         <sys_class_name>sys_script_include</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2023-06-24 19:31:55</sys_created_on>
         <sys_id>e011444797a3e910b4033563e453afd3</sys_id>
-        <sys_mod_count>16</sys_mod_count>
+        <sys_mod_count>17</sys_mod_count>
         <sys_name>ITSMUtils</sys_name>
         <sys_package display_value="gitsnow" source="x_993990_gitsnow">deff7bf297a3e910b4033563e453af6f</sys_package>
         <sys_policy>read</sys_policy>
         <sys_scope display_value="gitsnow">deff7bf297a3e910b4033563e453af6f</sys_scope>
         <sys_update_name>sys_script_include_e011444797a3e910b4033563e453afd3</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2023-09-26 09:46:54</sys_updated_on>
+        <sys_updated_on>2023-09-27 08:06:41</sys_updated_on>
     </sys_script_include>
 </record_update>
