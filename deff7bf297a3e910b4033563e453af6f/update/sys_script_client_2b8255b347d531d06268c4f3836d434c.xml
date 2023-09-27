@@ -13,6 +13,9 @@
         <script><![CDATA[function onLoad() {
    //code begins here..
    
+	//Sprint 2 dev in progress -ready.
+	
+	
 }]]></script>
         <sys_class_name>sys_script_client</sys_class_name>
         <sys_created_by>soudeshpande</sys_created_by>
@@ -20,7 +23,7 @@
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>2b8255b347d531d06268c4f3836d434c</sys_id>
-        <sys_mod_count>4</sys_mod_count>
+        <sys_mod_count>6</sys_mod_count>
         <sys_name>Incident Field logic</sys_name>
         <sys_overrides/>
         <sys_package display_value="gitsnow" source="x_993990_gitsnow">deff7bf297a3e910b4033563e453af6f</sys_package>
@@ -28,7 +31,7 @@
         <sys_scope display_value="gitsnow">deff7bf297a3e910b4033563e453af6f</sys_scope>
         <sys_update_name>sys_script_client_2b8255b347d531d06268c4f3836d434c</sys_update_name>
         <sys_updated_by>abel.tuter</sys_updated_by>
-        <sys_updated_on>2023-09-27 09:44:37</sys_updated_on>
+        <sys_updated_on>2023-09-27 12:03:42</sys_updated_on>
         <table>incident</table>
         <type>onLoad</type>
         <ui_type>0</ui_type>
