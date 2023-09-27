@@ -8,11 +8,10 @@
         <global>true</global>
         <isolate_script>true</isolate_script>
         <messages/>
-        <name>Validate Incident Fields</name>
+        <name>Test Script Sourabh</name>
         <order/>
         <script><![CDATA[function onLoad() {
-   
-	// Some code here....
+   //Sourabh - 22nd Sep
    
 }]]></script>
         <sys_class_name>sys_script_client</sys_class_name>
