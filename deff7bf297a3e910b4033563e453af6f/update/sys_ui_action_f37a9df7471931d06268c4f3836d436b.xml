@@ -30,9 +30,7 @@
         <name>Close Ticket</name>
         <onclick/>
         <order>100</order>
-        <script><![CDATA[// Abel Tuter added a code - This code has Bugs
-
-// System Admin built some new functionality without bugs.]]></script>
+        <script><![CDATA[// Existing code here...]]></script>
         <show_insert>true</show_insert>
         <show_multiple_update>false</show_multiple_update>
         <show_query>false</show_query>
@@ -43,7 +41,7 @@
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>f37a9df7471931d06268c4f3836d436b</sys_id>
-        <sys_mod_count>5</sys_mod_count>
+        <sys_mod_count>6</sys_mod_count>
         <sys_name>Close Ticket</sys_name>
         <sys_overrides/>
         <sys_package display_value="gitsnow" source="x_993990_gitsnow">deff7bf297a3e910b4033563e453af6f</sys_package>
@@ -51,7 +49,7 @@
         <sys_scope display_value="gitsnow">deff7bf297a3e910b4033563e453af6f</sys_scope>
         <sys_update_name>sys_ui_action_f37a9df7471931d06268c4f3836d436b</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2023-09-27 08:07:09</sys_updated_on>
+        <sys_updated_on>2023-09-28 07:31:18</sys_updated_on>
         <table/>
         <ui11_compatible>true</ui11_compatible>
         <ui16_compatible>false</ui16_compatible>
